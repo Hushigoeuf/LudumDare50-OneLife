@@ -1,0 +1,34 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bf8506b659d8430096557ef834f906de, type: 3}
+  m_Name: HGResources_LevelList (Default)
+  m_EditorClassIdentifier: 
+  Levels:
+  - _scene: {fileID: 102900000, guid: 7fd7bbd00a68b07439abb1b15c151f06, type: 3}
+    SceneName: HGScene_Level (1)
+    Settings: {fileID: 0}
+  - _scene: {fileID: 102900000, guid: 48b210e09dd85724c861b323b9990f4d, type: 3}
+    SceneName: HGScene_Level (2)
+    Settings: {fileID: 0}
+  - _scene: {fileID: 102900000, guid: 774d9630d432f4f4d8bf295e6af1a865, type: 3}
+    SceneName: HGScene_Level (3)
+    Settings: {fileID: 0}
+  - _scene: {fileID: 102900000, guid: 9bd0c005ae10b344688459a9816ead8b, type: 3}
+    SceneName: HGScene_Level (4)
+    Settings: {fileID: 0}
+  - _scene: {fileID: 102900000, guid: 6003a31c8eb4f7e4bb4b3e746b2f0c78, type: 3}
+    SceneName: HGScene_Level (5)
+    Settings: {fileID: 0}
+  - _scene: {fileID: 102900000, guid: 4c2f31c0460d34c43aec6c0d2d6e0197, type: 3}
+    SceneName: HGScene_Level (F)
+    Settings: {fileID: 0}
+  _currentIndex: 5

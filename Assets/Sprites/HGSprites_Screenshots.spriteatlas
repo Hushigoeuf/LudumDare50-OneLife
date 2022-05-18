@@ -1,0 +1,55 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: HGSprites_Screenshots
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings: []
+    packingSettings:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 1
+      enableTightPacking: 1
+    secondaryTextureSettings: {}
+    variantMultiplier: 1
+    packables:
+    - {fileID: 102900000, guid: ada4198e7cfc6784e8ec7721dc3c2699, type: 3}
+    bindAsDefault: 1
+    isAtlasV2: 0
+    cachedData: {fileID: 0}
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: 46da3b934cc721947807451eb3994e2b, type: 3}
+  - {fileID: 21300000, guid: 9c202d143cde9dc4da89157a802adb62, type: 3}
+  - {fileID: 21300000, guid: 161c5a77ab23d0243ba64dd8fc9f133b, type: 3}
+  - {fileID: 21300000, guid: 2cda6efc7f994dd4897cf0ce3f647a88, type: 3}
+  - {fileID: 21300000, guid: 8766ef5e542c1584b80fdf346e524a20, type: 3}
+  - {fileID: 21300000, guid: 568f281f0f21dff4e836115c94bc35a5, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - HGSprite_Screenshot (2)
+  - HGSprite_Screenshot (3)
+  - HGSprite_Screenshot (5)
+  - HGSprite_Screenshot (6)
+  - HGSprite_Screenshot (4)
+  - HGSprite_Screenshot (1)
+  m_RenderDataMap: {}
+  m_Tag: HGSprites_Screenshots
+  m_IsVariant: 0

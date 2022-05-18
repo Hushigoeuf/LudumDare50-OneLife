@@ -1,0 +1,63 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: HGSprites_Explosion
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings: []
+    packingSettings:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 1
+      enableTightPacking: 1
+    secondaryTextureSettings: {}
+    variantMultiplier: 1
+    packables:
+    - {fileID: 102900000, guid: 0f8d8c54257c75549910bd960daadeb4, type: 3}
+    bindAsDefault: 1
+    isAtlasV2: 0
+    cachedData: {fileID: 0}
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: 109a05514525eab4c85456ed10fbd509, type: 3}
+  - {fileID: 21300000, guid: c5fa2e83c330f7e43b707d8a230c8272, type: 3}
+  - {fileID: 21300000, guid: d490e944d208d5943b19388325f65f79, type: 3}
+  - {fileID: 21300000, guid: d9a9f654c558cba458724bfef6088613, type: 3}
+  - {fileID: 21300000, guid: 3cc8302686d5f5a4fab1d46db13f27b1, type: 3}
+  - {fileID: 21300000, guid: 186630e8ce75cbd48bbdc92e11bad1a0, type: 3}
+  - {fileID: 21300000, guid: ec121d4b1f51c8549a9ff3a69651361b, type: 3}
+  - {fileID: 21300000, guid: f83e3aac02e5a5a4d92fcdbb99442118, type: 3}
+  - {fileID: 21300000, guid: 34fdb99d1fc139c4db4224de2f32c1da, type: 3}
+  - {fileID: 21300000, guid: 6d433bce6c875684fb8cb1d698b33f4f, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - HGSprite_Explosion (7)
+  - HGSprite_Explosion (4)
+  - HGSprite_Explosion (9)
+  - HGSprite_Explosion (3)
+  - HGSprite_Explosion (8)
+  - HGSprite_Explosion (10)
+  - HGSprite_Explosion (2)
+  - HGSprite_Explosion (5)
+  - HGSprite_Explosion (1)
+  - HGSprite_Explosion (6)
+  m_RenderDataMap: {}
+  m_Tag: HGSprites_Explosion
+  m_IsVariant: 0

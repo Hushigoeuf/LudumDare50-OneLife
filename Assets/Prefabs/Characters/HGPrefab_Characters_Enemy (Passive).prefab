@@ -1,0 +1,58 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1001 &101900521612775653
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 2593764320998668638, guid: 8c7a95aba36031d44887fa8bd7e532bc,
+        type: 3}
+      propertyPath: Owner
+      value: 
+      objectReference: {fileID: 0}
+    - target: {fileID: 6093963974063928073, guid: 8c7a95aba36031d44887fa8bd7e532bc,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 7526613344125546295, guid: 8c7a95aba36031d44887fa8bd7e532bc,
+        type: 3}
+      propertyPath: CharacterBrain
+      value: 
+      objectReference: {fileID: 0}
+    - target: {fileID: 7588953837914981193, guid: 8c7a95aba36031d44887fa8bd7e532bc,
+        type: 3}
+      propertyPath: m_BodyType
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 7630118808689661449, guid: 8c7a95aba36031d44887fa8bd7e532bc,
+        type: 3}
+      propertyPath: m_Name
+      value: HGPrefabs_Characters_Enemy (Passive)
+      objectReference: {fileID: 0}
+    - target: {fileID: 7632093116128751601, guid: 8c7a95aba36031d44887fa8bd7e532bc,
+        type: 3}
+      propertyPath: m_RootOrder
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7632093116128751601, guid: 8c7a95aba36031d44887fa8bd7e532bc,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7632093116128751601, guid: 8c7a95aba36031d44887fa8bd7e532bc,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7632093116128751601, guid: 8c7a95aba36031d44887fa8bd7e532bc,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents:
+    - {fileID: 2593764320998668638, guid: 8c7a95aba36031d44887fa8bd7e532bc, type: 3}
+    - {fileID: -4743656358591486356, guid: 8c7a95aba36031d44887fa8bd7e532bc, type: 3}
+  m_SourcePrefab: {fileID: 100100000, guid: 8c7a95aba36031d44887fa8bd7e532bc, type: 3}

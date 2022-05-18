@@ -1,0 +1,95 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: HGSprites_Characters
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings: []
+    packingSettings:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 1
+      enableTightPacking: 1
+    secondaryTextureSettings: {}
+    variantMultiplier: 1
+    packables:
+    - {fileID: 102900000, guid: b25ac7a96e481a346bf695b7d1d89d97, type: 3}
+    bindAsDefault: 1
+    isAtlasV2: 0
+    cachedData: {fileID: 0}
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: 8b2fd181c69a2764291f8fb113aba2cd, type: 3}
+  - {fileID: 21300000, guid: ed449012fa10a2f4da626172abd621c2, type: 3}
+  - {fileID: 21300000, guid: 71c41a6299b4d3b499c7cba21d21da20, type: 3}
+  - {fileID: 21300000, guid: 6668bd62749cdfd44bdc1e620efb715b, type: 3}
+  - {fileID: 21300000, guid: 9ede6a92eebb98849bbebff52c0b8a92, type: 3}
+  - {fileID: 21300000, guid: b15228a2b535c124584cae5546a973a2, type: 3}
+  - {fileID: 21300000, guid: 8cef9de2c4a2265429bf98df1e143219, type: 3}
+  - {fileID: 21300000, guid: 1f0148434afb6b84fa91ee8c9851e27a, type: 3}
+  - {fileID: 21300000, guid: bf90d6c39365de04e8f032a97e7cc202, type: 3}
+  - {fileID: 21300000, guid: 4a666c24f375d864c8e9589957a79755, type: 3}
+  - {fileID: 21300000, guid: 4c5d1e2546ac345488d79f70f17c2b14, type: 3}
+  - {fileID: 21300000, guid: 21a898262f488e940ab7ff174998e65b, type: 3}
+  - {fileID: 21300000, guid: d86190965aaeebc49a9dd40617e15bce, type: 3}
+  - {fileID: 21300000, guid: 5abd12579f61f8b4fbaf204712b62709, type: 3}
+  - {fileID: 21300000, guid: ea48425839b22b647bbe8c016827a20f, type: 3}
+  - {fileID: 21300000, guid: 164707c848998bb409f62a75aaacec67, type: 3}
+  - {fileID: 21300000, guid: 87c5ed49fd28ba44d8e468a769f5cca4, type: 3}
+  - {fileID: 21300000, guid: 9dd3f3795bb14d843b74dbbfe3cf0892, type: 3}
+  - {fileID: 21300000, guid: 6c6f3b4a0ab36464996498b98aa896dd, type: 3}
+  - {fileID: 21300000, guid: 3abe3d7aa704ac7418d111b54e4db82c, type: 3}
+  - {fileID: 21300000, guid: b42adffa4453604419c9f7795c5c95f6, type: 3}
+  - {fileID: 21300000, guid: bf1d8e2b39588594f8df5114abd84da8, type: 3}
+  - {fileID: 21300000, guid: f426d6ab190fad04586a9d16e4b7250e, type: 3}
+  - {fileID: 21300000, guid: 13d38fac39d31004586dbdea4eb75ebe, type: 3}
+  - {fileID: 21300000, guid: efd3846f90ce2f545afad279298c3f8d, type: 3}
+  - {fileID: 21300000, guid: d92bcdef1b2f0a24693f27f236fcfd2a, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - HGSprite_Characters_SafeZone (Body)
+  - HGSprite_Characters_Enemy5 (Eyes)
+  - HGSprite_Characters_Point (Background)
+  - HGSprite_Characters_Player (LureWeapon)
+  - HGSprite_Characters_Point (Head)
+  - HGSprite_Characters_Portal (Rotation)
+  - HGSprite_Characters_Enemy1 (Tail)
+  - HGSprite_Characters_Player (Body)
+  - HGSprite_Characters_Player (Head)
+  - HGSprite_Characters_Enemy4 (Shadow)
+  - HGSprite_Characters_Point (Body)
+  - HGSprite_Characters_Enemy4 (Body)
+  - HGSprite_Characters_Enemy4 (Heart)
+  - HGSprite_Characters_Enemy5 (Body)
+  - HGSprite_Characters_Enemy1 (Body)
+  - HGSprite_Characters_SafeZone (Field)
+  - HGSprite_Characters_Portal (Shadow)
+  - HGSprite_Characters_Portal (Body)
+  - HGSprite_Characters_Enemy1 (Eyes)
+  - HGSprite_Characters_SafeZone (Head)
+  - HGSprite_Characters_Enemy4 (Head)
+  - HGSprite_Characters_Portal (Field)
+  - HGSprite_Characters_SafeZone (Sparks)
+  - HGSprite_Characters_Enemy4 (Eyes)
+  - HGSprite_Characters_Enemy4 (Shield)
+  - HGSprite_Characters_Enemy4 (Tail)
+  m_RenderDataMap: {}
+  m_Tag: HGSprites_Characters
+  m_IsVariant: 0
